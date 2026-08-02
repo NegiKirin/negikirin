@@ -1,7 +1,7 @@
-<!-- =========================================================
-     HỒ DUY PHÚC — GITHUB PROFILE README
-     GitHub: https://github.com/negikirin
-========================================================== -->
+<!--
+  GitHub Profile README
+  Repository name must match your GitHub username: negikirin
+-->
 
 <div align="center">
 
@@ -25,9 +25,9 @@
 
 # Hi, I'm Hồ Duy Phúc 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=22\&duration=2800\&pause=800\&center=true\&vCenter=true\&width=700\&lines=AI+Engineer+%7C+Computer+Vision;Building+intelligent+visual+systems;Turning+AI+models+into+real+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Computer+Vision+%7C+NLP;Building+intelligent+visual+and+language+systems;Turning+AI+models+into+real+applications)](https://git.io/typing-svg)
 
-### I build computer vision systems that transform visual data into practical AI applications.
+### I build Computer Vision and NLP systems that transform visual and language data into practical AI applications.
 
 <p>
   <a href="https://www.linkedin.com/in/hdp3004/">
@@ -36,11 +36,16 @@
       alt="LinkedIn"
     />
   </a>
-
   <a href="mailto:hoduyphuc304@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
+    />
+  </a>
+  <a href="https://github.com/negikirin">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
     />
   </a>
 </p>
@@ -62,9 +67,10 @@ class AIEngineer:
 
         self.focus = [
             "Computer Vision",
+            "Natural Language Processing",
             "Deep Learning",
             "Object Detection",
-            "AI Model Deployment"
+            "AI Model Deployment",
         ]
 
     def current_mission(self):
@@ -75,26 +81,27 @@ class AIEngineer:
 
 ## 🧠 What I Build
 
-* Computer vision pipelines for image and video analysis
-* Object detection, classification and tracking applications
-* Deep-learning model training and evaluation workflows
-* AI APIs and deployment systems using FastAPI and Docker
-* Practical prototypes that connect AI models with real products
+- Computer Vision pipelines for image and video analysis
+- NLP applications for text processing and language understanding
+- Object detection, image classification, and object tracking applications
+- Deep Learning model training and evaluation workflows
+- AI APIs and deployment systems using FastAPI and Docker
+- Practical prototypes that connect AI models with real products
 
 ---
 
 ## 🛠️ AI Engineering Toolkit
 
-### AI and Computer Vision
+### AI, Machine Learning & Computer Vision
 
 <p align="left">
   <img
     src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn"
-    alt="AI and Computer Vision skills"
+    alt="AI, Machine Learning, and Computer Vision skills"
   />
 </p>
 
-### Backend and Deployment
+### Backend & Deployment
 
 <p align="left">
   <img
@@ -103,7 +110,7 @@ class AIEngineer:
   />
 </p>
 
-### Data and Development
+### Data & Development
 
 <p align="left">
   <img
@@ -119,15 +126,15 @@ class AIEngineer:
 <div align="center">
 
 <img
-src="https://github-stats-extended.vercel.app/api?username=negikirin&show_icons=true&hide_border=true&theme=transparent"
-alt="Hồ Duy Phúc GitHub statistics"
-height="165"
+  src="https://github-stats-extended.vercel.app/api?username=negikirin&show_icons=true&hide_border=true&theme=transparent"
+  alt="Hồ Duy Phúc GitHub statistics"
+  height="165"
 />
 
 <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=negikirin&layout=compact&hide_border=true&theme=transparent"
-alt="Most used programming languages"
-height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=negikirin&layout=compact&hide_border=true&theme=transparent"
+  alt="Most used programming languages"
+  height="165"
 />
 
 </div>
@@ -135,6 +142,8 @@ height="165"
 ---
 
 ## 🐍 Contribution Journey
+
+<div align="center">
 
 <picture>
   <source
@@ -147,10 +156,12 @@ height="165"
   />
   <img
     src="https://raw.githubusercontent.com/negikirin/negikirin/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution animation"
+    alt="GitHub contribution snake animation"
     width="100%"
   />
 </picture>
+
+</div>
 
 ---
 
@@ -158,10 +169,11 @@ height="165"
 
 I am interested in opportunities involving:
 
-* Computer Vision
-* Deep Learning
-* AI application development
-* Model optimization and deployment
+- Computer Vision
+- Natural Language Processing
+- Deep Learning
+- AI application development
+- Model optimization and deployment
 
 <div align="center">
 
@@ -176,6 +188,6 @@ I am interested in opportunities involving:
 
 <br/><br/>
 
-<sub>Built with curiosity, experiments and a lot of model training.</sub>
+<sub>Built with curiosity, experiments, and a lot of model training.</sub>
 
 </div>
